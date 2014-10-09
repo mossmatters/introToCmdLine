@@ -1,0 +1,9 @@
+*.aux
+*.glo
+*.idx
+*.ind
+*.log
+*.nlo
+*.nls
+*.out
+*.gz
