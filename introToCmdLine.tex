@@ -38,8 +38,9 @@
 		showlines=true,
 		showstringspaces=false,
 		%literate={\$}{{{\$}}}1,		%Allow dollar signs to still be printed within code blocks.
-		%escapechar=>,
+		escapechar=!
 		#1
+%		escapeinside={(*@}{@*)}
 		}
 	}{\addtocounter{terminal}{1}}	
 
@@ -56,7 +57,7 @@
 		showlines=true,
 		showstringspaces=false,
 		%literate={\$}{{{\$}}}1,		%Allow dollar signs to still be printed within code blocks.
-		%escapechar=>,
+		escapechar=@
 		#1
 		}
 	}{\addtocounter{bash}{1}}	
