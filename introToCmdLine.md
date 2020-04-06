@@ -205,7 +205,7 @@ Other, UNIX programs may have different help systems. Sometimes, a program will 
 
 ### Chapter 3 Questions
 
-1. What are the possible arguments for the `pwd` command?
+1. What are the possible flags for the `pwd` command?
 2. What is the oldest file located in your root directory?
 3. What command would you use to list the contents one directory above your current directory, using a relative path?
 
