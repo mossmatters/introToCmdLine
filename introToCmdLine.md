@@ -384,7 +384,7 @@ mossmatters@bryum ~ % grep "Fungi" lies.txt
 Fungi are a type of plant.
 ```
 
-Even though `lies.txt` contains more than one line, `grep` only returned the line that has `Fungi` in the name.
+Even though `lies.txt` contains more than one line, `grep` only returned the line that contains `Fungi`.
 
 
 ### Chapter 5 Questions
