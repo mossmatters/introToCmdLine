@@ -261,7 +261,7 @@ Note that removing a directory also removes all of its contents. There is no Tra
 ### Exercises for Chapter 4
 
 1. In your home directory, create a directory called "First"
-2. Inside the "First" directory, create a file called "Second"
+2. Inside the "First" directory, create a directory called "Second"
 3. Run this command: `touch ~/First/Second/myfile.txt`
 4. Make a copy of 'myfile.txt` in your home directory.
 
